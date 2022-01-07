@@ -1,3 +1,36 @@
+
+
+
+
+# Escape the bubble! 
+## A trade-off between personalization and diversity in movie recommendations
+
+<br>
+
+## Project description:
+
+Recommender systems are both a blessing and a curse. On the one hand, they provide the user with recommendations, tailored to his/her personal profile. On the other hand, the user is at risk of getting stuck in a personalized filter bubble.
+A filter bubble gradually isolates a user by decreasing the diversity of recommendations.
+Common recommender engines are content-based and collaborative filtering. While content-based filtering suggests recommendations based only on the similarity of items, collaborative filtering takes user ratings into account. Depending on the information the users have given so far, these recommendations may still be of little variation. 
+In this project, we developed a recommender engine that produces personalized recommendations for movies. Further, we implemented an algorithm which gives the user the choice, how far he/she wants to leave the filter bubble. With this increased diversity, we provide a better experience for the user.
+
+## The project was the graduation work of four students of the Neue-Fische Bootcamp in Data Science, between September and December 2021. 
+
+- Alexandra Zimmermann-Rösner, Dipl.- Biologist
+- Hassan Mohamed, MSc., Physicist
+- Konstanze Braun, MSc., Psychologist
+- Jana Conradi, MSc.,  Bio Scientist
+
+
+<br> 
+
+
+
+
+
+
+
+
 # ds-modeling-pipeline
 
 Here you find a Skeleton project for building a simple model in a python script or notebook and log the results on MLFlow.
