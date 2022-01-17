@@ -30,7 +30,7 @@ In this project, we developed a recommender engine that produces personalized re
 
 <br> 
 
-## Graduate Presentation: [pdf](https://github.com/flux511/recommender-system-capstone/blob/main/presentation/Escape_the_bubble_presentation.pdf), [YouTube_video](https://www.youtube.com/watch?v=U-Fmn2jkK7w&t=834s)
+## Graduate Presentation: [pdf](https://github.com/flux511/recommender-system-capstone/blob/main/presentation/Escape_the_bubble_presentation.pdf), [YouTube_video](https://www.youtube.com/watch?v=U-Fmn2jkK7w&t=834s),[Dashboard](https://dashboard-movie.herokuapp.com/)
 
 
 
