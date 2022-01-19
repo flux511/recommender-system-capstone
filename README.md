@@ -51,6 +51,7 @@ In this project, we developed a recommender engine that produces personalized re
 pyenv with Python: 3.9.4
 
 <br>
+
 ## Environment
 
 make setup
