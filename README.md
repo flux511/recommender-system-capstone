@@ -59,11 +59,7 @@ make setup
 or
 
 pyenv local 3.9.4
-
 python -m venv .venv
-
 pip install --upgrade pip
-
 pip install -r requirements.txt
-
 source .venv/bin/activate
