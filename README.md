@@ -28,6 +28,9 @@ In this project, we developed a recommender engine that produces personalized re
 
 
 
+<br>
+
+
 <br> 
 
 ## Graduate Presentation: [pdf](https://github.com/flux511/recommender-system-capstone/blob/main/presentation/Escape_the_bubble_presentation.pdf), [YouTube_video](https://www.youtube.com/watch?v=U-Fmn2jkK7w&t=834s),[Dashboard](https://dashboard-movie.herokuapp.com/)
@@ -42,6 +45,20 @@ In this project, we developed a recommender engine that produces personalized re
 - [Diversity optimization](https://github.com/flux511/recommender-system-capstone/blob/main/notebooks/9b_optimizing_diversity.ipynb) 
 - [Dashboard](https://github.com/flux511/recommender-system-capstone/blob/main/notebooks/8b_Dashboard.ipynb)  
 
+<br>
 
+## Requirements
+pyenv with Python: 3.9.4
 
+<br>
+## Environment
 
+make setup
+
+or
+
+pyenv local 3.9.4
+python -m venv .venv
+pip install --upgrade pip
+pip install -r requirements.txt
+source .venv/bin/activate
