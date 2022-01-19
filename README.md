@@ -50,6 +50,14 @@ In this project, we developed a recommender engine that produces personalized re
 ## Requirements
 pyenv with Python: 3.9.4
 
+### Installation with pip
+### Surprise Library
+pip install numpy<br>
+pip install scikit-surprise
+
+### NLTK
+pip install nltk<br>
+
 <br>
 
 ## Environment
