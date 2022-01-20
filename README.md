@@ -39,7 +39,7 @@ In this project, we developed a recommender engine that produces personalized re
 
 ## Data
 
-To build the movie recommendations following datasets were used:
+To build the movie recommendations, following datasets were used:
 + Dataset from MovieLens<br>
 Small: 100,000 ratings and 3,600 tag applications applied to 9,000 movies by 600 users. Last updated 9/2018. Provided by the University of Minnesota<br>
 [Link](https://grouplens.org/datasets/movielens/)
