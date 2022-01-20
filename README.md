@@ -64,10 +64,12 @@ pyenv with Python: 3.9.4
 
 pip install scikit-surprise
 <br>
+
 ### NLTK
 pip install nltk<br>
 
 <br>
+
 ### Pandas-Profiling
 pip install -U pandas-profiling[notebook]<br>
 jupyter nbextension enable --py widgetsnbextension
