@@ -36,13 +36,14 @@ In this project, we developed a recommender engine that produces personalized re
 ## Graduate Presentation: [pdf](https://github.com/flux511/recommender-system-capstone/blob/main/presentation/Escape_the_bubble_presentation.pdf), [YouTube_video](https://www.youtube.com/watch?v=U-Fmn2jkK7w&t=834s),[Dashboard](https://dashboard-movie.herokuapp.com/)
 
 <br>
+
 ## Data
 
 To build the movie recommendations following datasets were used:
-+ Dataset from MovieLens
-Small: 100,000 ratings and 3,600 tag applications applied to 9,000 movies by 600 users. Last updated 9/2018. Provided by the University of Minnesota
++ Dataset from MovieLens<br>
+Small: 100,000 ratings and 3,600 tag applications applied to 9,000 movies by 600 users. Last updated 9/2018. Provided by the University of Minnesota<br>
 [Link](https://grouplens.org/datasets/movielens/)
-+ TMDB movie metadata, uploaded on Kaggle
++ TMDB movie metadata, uploaded on Kaggle<br>
 [Link](https://www.kaggle.com/rounakbanik/movie-recommender-systems/data)
 
 <br>
