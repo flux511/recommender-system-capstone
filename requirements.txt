@@ -3,9 +3,8 @@ matplotlib==3.4.3
 numpy==1.21.2
 pandas==1.3.3
 seaborn==0.11.2
-scipy==1.4.3
 scikit-learn==1.0.2
-surprise==1.1.0
 nltk==3.6.6
+scikit-surprise==1.1.1
 pandas-profiling==2.8.0
 dash==2.0.0
