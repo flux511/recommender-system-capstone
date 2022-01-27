@@ -68,8 +68,8 @@ pip install scikit-surprise
 ### NLTK
 pip install nltk<br>
 
-<br>
 
+<br>
 ### Pandas-Profiling
 pip install -U pandas-profiling[notebook]<br>
 jupyter nbextension enable --py widgetsnbextension
@@ -87,3 +87,7 @@ pip install --upgrade pip
 pip install -r requirements.txt
 source .venv/bin/activate
 ```
+### The general flowchart of the project can be illustrated in this diagram:
+<br>
+
+![Alt text](./images/recsys_flowchart.png?raw=true "Title")
