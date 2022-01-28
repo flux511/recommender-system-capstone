@@ -59,18 +59,17 @@ Small: 100,000 ratings and 3,600 tag applications applied to 9,000 movies by 600
 ## Requirements
 pyenv with Python: 3.9.4
 
-### Installation with PIP
-### Surprise Library
+#### Installation with PIP
+#### Surprise Library
 
 pip install scikit-surprise
 <br>
 
-### NLTK
+#### NLTK
 pip install nltk<br>
-
-
 <br>
-### Pandas-Profiling
+
+#### Pandas-Profiling
 pip install -U pandas-profiling[notebook]<br>
 jupyter nbextension enable --py widgetsnbextension
 <br>
